@@ -23,3 +23,4 @@ terraform/crash.*.log
 .env
 .env.*
 !.env.example
+terraform/security-group.tf.disabled
