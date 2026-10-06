@@ -24,3 +24,8 @@ terraform/crash.*.log
 .env.*
 !.env.example
 terraform/security-group.tf.disabled
+
+# SSH keys and local secrets
+*.pem
+*.key
+backups/
